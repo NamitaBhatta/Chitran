@@ -22,7 +22,7 @@ Generates a festival-themed image using a Latent Diffusion Model, applies the im
 
 🔧 Tech Stack
 
-M2M-100 (Translation)
+M2M-100 (Wish Generation)
 
 Latent Diffusion Model (Image Generation)
 
